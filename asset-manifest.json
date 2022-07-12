@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-khairil-cart/static/css/main.24838fde.css",
+    "main.js": "/react-khairil-cart/static/js/main.3f4526da.js",
+    "static/js/787.c337d5b1.chunk.js": "/react-khairil-cart/static/js/787.c337d5b1.chunk.js",
+    "index.html": "/react-khairil-cart/index.html",
+    "main.24838fde.css.map": "/react-khairil-cart/static/css/main.24838fde.css.map",
+    "main.3f4526da.js.map": "/react-khairil-cart/static/js/main.3f4526da.js.map",
+    "787.c337d5b1.chunk.js.map": "/react-khairil-cart/static/js/787.c337d5b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24838fde.css",
+    "static/js/main.3f4526da.js"
+  ]
+}
