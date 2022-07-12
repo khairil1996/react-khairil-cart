@@ -9,7 +9,7 @@ export const Header = ({cart}) => {
                 <div className='row'>
                     <div className='col-sm-9'>
                         <h1>
-                            MY SHOP
+                            Khairil's Shop
                         </h1>
                     </div>
                     <div className='col-sm-3'>
